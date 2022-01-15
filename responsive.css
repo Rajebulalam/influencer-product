@@ -85,6 +85,7 @@
 		background-size: cover;
 		background-position: center;
 		cursor: pointer;
+        z-index: 9;
 	}
 	.toggle.active{
 		background: #fff url(images/close.png);
